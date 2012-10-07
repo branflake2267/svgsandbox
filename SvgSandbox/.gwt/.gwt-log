@@ -1,0 +1,292 @@
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 3164 units from cache.
+Validating units:
+   [ERROR] Errors in 'file:/Users/branflake2267/git/lib-gwt-svg/src/test/java/org/vectomatic/dom/svg/impl/DashArrayParserTest.java'
+      [ERROR] Line 12: No source code is available for type junit.framework.TestCase; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/Users/branflake2267/git/lib-gwt-svg/src/test/java/org/vectomatic/dom/svg/impl/SVGPaintParserTest.java'
+      [ERROR] Line 34: No source code is available for type junit.framework.TestCase; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg.TestSvgUiBinder
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587109544.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587109544.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587109544_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg.TestSvgUiBinder
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587112206.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587112206.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587112206_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg.TestSvgUiBinder
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587133388.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587133388.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587133388_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg.TestSvgUiBinder
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587136867.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587136867.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587136867_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg.TestSvgUiBinder
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587137210.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587137210.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587137210_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg.TestSvgUiBinder
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587147395.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587147395.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587147395_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg.TestSvgUiBinder
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587159965.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587159965.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587159965_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg.TestSvgUiBinder
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587164748.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587164748.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587164748_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg.TestSvgUiBinder
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587920078.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587920078.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587920078_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg.TestSvgUiBinder
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587920492.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587920492.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587920492_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg.TestSvgUiBinder
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587956574.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587956574.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587956574_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg.TestSvgUiBinder
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587962674.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587962674.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587962674_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg.TestSvgUiBinder
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587976454.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587976454.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587976454_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg.TestSvgUiBinder
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587981422.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587981422.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587981422_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg.TestSvgUiBinder
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587990936.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587990936.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587990936_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg.TestSvgUiBinder
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587999841.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587999841.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349587999841_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg.TestSvgUiBinder
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349588003603.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349588003603.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349588003603_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg.TestSvgUiBinder
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349588022401.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349588022401.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349588022401_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg.TestSvgUiBinder
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349621735315.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349621735315.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349621735315_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg.TestSvgUiBinder
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349621735582.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349621735582.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349621735582_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg.TestSvgUiBinder
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349621755976.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349621755976.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.arcbees.com.client.TestSvg_TestSvgUiBinderImpl_designTime1349621755976_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
