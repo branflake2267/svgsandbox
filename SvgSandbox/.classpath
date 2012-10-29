@@ -25,5 +25,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/gwt-dnd-3.1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/gwt-dnd-3.1.2.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

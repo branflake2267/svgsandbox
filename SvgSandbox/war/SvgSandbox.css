@@ -1,34 +1,61 @@
-/** Add css rules here for your application. */
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+}
+
+.test1 {
+    border: 1px red solid;
+}
 
 
-/** Example rules used by the template application (remove for your app) */
-h1 {
-  font-size: 2em;
-  font-weight: bold;
-  color: #777777;
-  margin: 40px 0px 70px;
+@CHARSET "UTF-8";
+
+HTML { /* Workaround for GWT issue 1932 */
+  margin: 0px !important;
+  border: none !important;
+}
+
+.dragdrop-handle {
+  cursor: move;
+  user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+}
+
+.dragdrop-draggable {
+  zoom: 1; /* IE gain hasLayout */
+}
+
+.dragdrop-dragging {
+  zoom: normal; /* remove artifacts */
+}
+
+.dragdrop-positioner {
+  border: 1px dashed #1E90FF; /* blue */
+  zoom: 1; /* IE gain hasLayout */
+  z-index: 100;
+}
+
+.dragdrop-flow-panel-positioner {
+  color: #1E90FF; /* blue */
+  display: inline;
   text-align: center;
+  vertical-align: middle;
 }
 
-.sendButton {
-  display: block;
-  font-size: 16pt;
+.dragdrop-proxy {
+  background-color: #77AAFF; /* light blue */
+}
+.dragdrop-selected , .dragdrop-dragging , .dragdrop-proxy {
+  filter: alpha(opacity = 30);
+  opacity: 0.3;
 }
 
-/** Most GWT widgets already have a style name defined */
-.gwt-DialogBox {
-  width: 400px;
-}
-
-.dialogVPanel {
-  margin: 5px;
-}
-
-.serverResponseLabelError {
-  color: red;
-}
-
-/** Set ids using widget.getElement().setId("idOfElement") */
-#closeButton {
-  margin: 15px 6px 6px;
+.dragdrop-movable-panel {
+  z-index: 200;
 }

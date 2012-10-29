@@ -8,6 +8,7 @@
 
   <!-- Other module inherits                                      -->
   <inherits name="org.vectomatic.libgwtsvg"/>
+  <inherits name='com.allen_sauer.gwt.dnd.gwt-dnd'/>
 
   <!-- Specify the app entry point class.                         -->
   <entry-point class='com.arcbees.com.client.SvgSandbox'/>

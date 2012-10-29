@@ -75,11 +75,12 @@ public class TestSvg extends Composite {
   }
   
   private void clearSvg() {
-    Element element = panel.getElement();
-    while (element.hasChildNodes()) { // never ends...
-      System.out.println("clearsvg element");
-      element.removeChild(element.getLastChild());
-    }
+//    Element element = panel.getElement();
+//    while (element.hasChildNodes()) { // never ends...
+//      System.out.println("clearsvg element");
+//      element.removeChild(element.getLastChild());
+//    }
+    panel.clear();
   }
 
   private int getTimes() {
@@ -127,10 +128,8 @@ public class TestSvg extends Composite {
     //panel.clear();
     clearSvg();
     
-    OMSVGSVGElement svgElement = OMSVGParser.parse(svg);    
-    Element element = panel.getElement();
-    element.appendChild(svgElement.getElement());
-    
+    OMSVGSVGElement svgElement = OMSVGParser.parse(svg);
+    panel.add(svgElement);
     svgElement.addClickHandler(new ClickHandler() {
       public void onClick(ClickEvent event) {
         Window.alert("Clicked");
