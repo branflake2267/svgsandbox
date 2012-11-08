@@ -46,7 +46,7 @@ public class SvgSandbox implements EntryPoint {
   
   private void drawItems() {
     
-    for (int i=1; i < 2; i++) {
+    for (int i=1; i < 9; i++) {
       int x = i * 50;
       int y = i * 50;
       OMSVGRectElement svgRect = new OMSVGRectElement(x, y, 50, 50, 0, 0);
