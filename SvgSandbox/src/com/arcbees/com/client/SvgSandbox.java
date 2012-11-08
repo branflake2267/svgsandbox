@@ -36,6 +36,7 @@ public class SvgSandbox implements EntryPoint {
     
     // SVG root
     svgRootAsTheDropTarget = new OMSVGSVGElement();
+    svgRootAsTheDropTarget.setSize("1000px", "1000px");
     boundaryPanel.add(svgRootAsTheDropTarget);
     
     // Drop Controller 
@@ -45,7 +46,7 @@ public class SvgSandbox implements EntryPoint {
   
   private void drawItems() {
     
-    for (int i=1; i < 5; i++) {
+    for (int i=1; i < 9; i++) {
       int x = i * 50;
       int y = i * 50;
       OMSVGRectElement svgRect = new OMSVGRectElement(x, y, 50, 50, 0, 0);

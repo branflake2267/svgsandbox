@@ -23,6 +23,7 @@ public class SvgPickupDragController extends AbstractDragController {
         style = widget.getElement().getAttribute("style");
         widget.getElement().getStyle().setProperty("stroke", "yellow");
         widget.getElement().getStyle().setProperty("strokeWidth", "3px");
+        widget.getElement().getStyle().setProperty("fillOpacity", ".5");
       } else {
         widget.getElement().setAttribute("style", style.toString());
       }
